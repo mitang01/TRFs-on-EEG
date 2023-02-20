@@ -4,7 +4,7 @@ cd C:\Users\86130\TRFs-on-EEG
 git add preprocess.ipynb 
 git push
 
-
+REM save the commands below for later use
 REM -m flag provides a human friendly message describing the change
 git commit -m "Adds customer data analysis notebook"
 
